@@ -8,7 +8,7 @@ it's very annoying, the cgecker says it exists although I removed it
 
 * third time to redo the thing
 
-** not gonna do it again 
+* the main goal is to learn not to get a 100% score
 
-*** the main goal is to learn not to get a 100% score
+* hope it works this time 
 
